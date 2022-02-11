@@ -1,4 +1,4 @@
-# application_5
+# application_5_animations
 
 A new Flutter project.
 
